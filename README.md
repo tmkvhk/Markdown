@@ -7,4 +7,4 @@ MarkdownChallenge
 3.List Item 3.
 :smile:
 
-[Page2]([/Markdown/Readme/page2)
+[Page2]([/Markdown/blob/main/page2.md)
