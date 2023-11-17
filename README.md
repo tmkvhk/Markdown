@@ -7,4 +7,4 @@ MarkdownChallenge
 3.List Item 3.
 :smile:
 
-[Page2]([page2.md)
+[Page2]([/page2)
